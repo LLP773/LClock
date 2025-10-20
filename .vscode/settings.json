@@ -1,0 +1,19 @@
+{
+    "cmake.ignoreCMakeListsMissing": true,
+    "files.associations": {
+        "typeinfo": "cpp"
+    },
+    "idf.portWin": "COM3",
+    "idf.openOcdConfigs": [
+        "interface/ftdi/esp32_devkitj_v1.cfg",
+        "target/esp32.cfg"
+    ],
+    "idf.flashType": "JTAG",
+    "python-envs.pythonProjects": [
+        {
+            "path": "",
+            "envManager": "ms-python.python:system",
+            "packageManager": "ms-python.python:pip"
+        }
+    ]
+}
